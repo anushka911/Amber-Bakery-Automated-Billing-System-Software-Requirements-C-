@@ -1,0 +1,11 @@
+Sale ID: 1
+Customer Name:        shehan           1
+Total Amount: $3.17273e-317
+Items:
+
+Sale ID: 1
+Customer Name:        shehan           1
+Total Amount: $1
+Items:
+  - Name:  | Price: $6.32404e-322
+

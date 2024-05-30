@@ -1,0 +1,9 @@
+ID: 1 | Name:          cake         250
+1         Apple           
+1         Apple          50
+ | Price: $3.17273e-317
+ID: 1 | Name:          cake         250
+1         Apple           
+1         Apple          50
+2           bun          15
+ | Price: $2.76677e-322
